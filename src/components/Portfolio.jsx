@@ -35,7 +35,7 @@ const Portfolio = () => {
       name="portfolio"
       className="w-full md:h-screen h-screen my-20"
     >
-      <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
+      <div className="max-w-screen-lg max-[520px]:mt-32 p-4 mx-auto flex flex-col justify-center w-full h-full">
         <div className="pb-8">
           <p className="text-4xl font-bold inline border-b-4 border-black">
             Portfolio

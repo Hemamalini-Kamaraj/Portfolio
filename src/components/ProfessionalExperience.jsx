@@ -6,7 +6,7 @@ function ProfessionalExperience() {
       name="experience"
       className="h-screen w-full"
     >
-      <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
+      <div className="max-w-screen-lg max-[520px]:mt-16 p-4 mx-auto flex flex-col justify-center w-full h-full">
             <div className="flex flex-col justify-center h-full">
                 <div className="pb-20">
                     <p className="text-4xl font-bold inline border-b-4 border-black">
